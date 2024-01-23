@@ -18,6 +18,6 @@ Estou constantemente buscando aprender mais sobre essas tecnologias e suas aplic
 
 ## Foco Atual 💻
 
-Desenvolvi uma paixão pelo design e seus processos, especialmente na criação de produtos digitais e na resolução de problemas do cotidiano por meio da tecnologia. Meu objetivo é contribuir para projetos significativos e continuar aprimorando minhas habilidades no mundo fascinante do design e da tecnologia.
+Desenvolvi uma paixão pelo UX/UI design e seus processos, especialmente na criação de produtos digitais e na resolução de problemas do cotidiano por meio da tecnologia. Agora, estou com foco full stack e analista de dados, ansiosa pela minha primeira oportunidade para contribuir em projetos significativos e continuar aprimorando minhas habilidades no fascinante mundo da tecnologia.
 
 Qual será o nosso próximo projeto?🌟
