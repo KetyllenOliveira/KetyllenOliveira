@@ -2,14 +2,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 <!-- Título e Descrição -->
-<h1 align="center">Hello, I'm Gabriela Zuppardo!</h1>
+<h1 align="center">Hello, I'm Ketyllen Oliveira!</h1>
 <p align="center">"I am a Brazilian woman, in the prime of my twenty-one years, a researcher, fascinated by science and technology, who, through programming, tries to make her mark on the world. I am a student of Internet Systems, and this is my world. Welcome!"</p>
 <p align="center"> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." - Bill Gates</p>
 
 <!-- Sobre Mim -->
 <h2 align="center">Sobre Mim 🚀</h2>
 <p align="center">
-  Com entusiasmo por novas tecnologias e muita criatividade, descobri minha paixão pela interseção entre design e tecnologia. Atualmente, estou cursando Sistema de Internet por meio do Embarque Digital, projeto desenvolvido pelo Porto Digital em parceria com a Prefeitura do Recife.
+  Com entusiasmo por novas tecnologias e muita criatividade, descobri minha paixão pela interseção entre design e tecnologia. Atualmente, estou cursando Sistema de Internet pelo Porto Digital na UNICAP, projeto desenvolvido pelo Porto Digital em parceria com a Prefeitura do Recife.
 </p>
 
 <!-- Minha Jornada -->
