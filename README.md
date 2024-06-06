@@ -18,13 +18,9 @@ Sou uma profissional entusiasmada por novas tecnologias e com uma abordagem cria
   Ao longo da minha trajetória em Tecnologia da Informação, desenvolvi habilidades em diversas áreas, incluindo:
 </p>
 <ul align="center">
-  <li>Desenvolvimento Frontend (HTML, CSS, JavaScript)</li>
-  <li>Desenvolvimento de interfaces de usuário (UI/UX)</li>
-  <li>Desenvolvimento Mobile (Flutter)</li>
-  <li>Desenvolvimento de aplicativos web e móveis (Java)</li>
+  <li>Desenvolvimento Frontend (HTML, CSS, JavaScript,UI/UX)</li>
   <li>Segurança Cibernética</li>
-  <li>Banco de Dados SQL e NoSQL</li>
-  <li>Análise e Visualização de Dados</li>
+  <li>Análise de Dados</li>
 </ul>
 <p align="center">
 
