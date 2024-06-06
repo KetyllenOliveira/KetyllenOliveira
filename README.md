@@ -17,8 +17,8 @@ Sou uma profissional entusiasmada por novas tecnologias e com uma abordagem cria
 <p align="center">
   Ao longo da minha trajetória em Tecnologia da Informação, desenvolvi habilidades em diversas áreas, incluindo:
 </p>
-<ul align="center">
-  <li>Desenvolvimento Frontend (HTML, CSS, JavaScript,UI/UX)</li>
+<ul style="text-align: left;">
+  <li>Desenvolvimento Frontend (HTML, CSS, JavaScript, UI/UX)</li>
   <li>Segurança Cibernética</li>
   <li>Análise de Dados</li>
 </ul>
