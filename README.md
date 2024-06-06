@@ -9,7 +9,7 @@
 <!-- Sobre Mim -->
 <h2 align="center">Sobre Mim 🚀</h2>
 <p align="center">
-  Com entusiasmo por novas tecnologias e muita criatividade, descobri minha paixão pela interseção entre design e tecnologia. Atualmente, estou cursando Sistema de Internet pelo Porto Digital na UNICAP, projeto desenvolvido pelo Porto Digital em parceria com a Prefeitura do Recife.
+Sou uma profissional entusiasmada por novas tecnologias e com uma abordagem criativa, atualmente em transição de carreira para a área de tecnologia. Estou cursando Sistemas para Internet na UNICAP, por meio de um programa inovador desenvolvido pelo Porto Digital em parceria com a Prefeitura do Recife. Com um forte desejo de integrar e aplicar conhecimentos de programação, estou determinada a deixar minha marca no mundo da tecnologia.
 </p>
 
 <!-- Minha Jornada -->
@@ -18,22 +18,24 @@
   Ao longo da minha trajetória em Tecnologia da Informação, desenvolvi habilidades em diversas áreas, incluindo:
 </p>
 <ul align="center">
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>Java</li>
-  <li>Flutter</li>
-  <li>Banco de Dados SQL</li>
-  <li>Princípios Cognitivos Aplicados ao Design</li>
+  <li>Desenvolvimento Frontend (HTML, CSS, JavaScript)</li>
+  <li>Desenvolvimento de interfaces de usuário (UI/UX)</li>
+  <li>Desenvolvimento Mobile (Flutter)</li>
+  <li>Desenvolvimento de aplicativos web e móveis (Java)</li>
+  <li>Segurança Cibernética</li>
+  <li>Banco de Dados SQL e NoSQL</li>
+  <li>Análise e Visualização de Dados</li>
 </ul>
 <p align="center">
+
   Estou constantemente buscando aprender mais sobre essas tecnologias e suas aplicações no desenvolvimento de soluções inovadoras.
 </p>
 
 <!-- Foco Atual -->
 <h2 align="center">Foco Atual 💻</h2>
 <p align="center">
-  Desenvolvi uma paixão pelo UX/UI design e seus processos, especialmente na criação de produtos digitais e na resolução de problemas do cotidiano por meio da tecnologia. Agora, estou com foco em full stack e analista de dados, ansiosa pela minha primeira oportunidade para contribuir em projetos significativos e continuar aprimorando minhas habilidades no fascinante mundo da tecnologia.
+
+Minha jornada na Tecnologia da Informação inflamou uma paixão vibrante pelo design UX/UI e seus processos, especialmente na criação de produtos digitais e na superação de desafios diários através da tecnologia. Agora, estou concentrando meus esforços em me aprimorar nas áreas de frontend, cibersegurança e análise de dados. Estou ansiosa para minha primeira oportunidade de contribuir em projetos que explorem esses campos. Determinada a aprimorar minhas habilidades neste empolgante universo tecnológico, estou constantemente em busca de aprendizado e evolução.
 </p>
 <p align="center">
   Qual será o nosso próximo projeto?🌟
@@ -70,9 +72,9 @@
 
 <!-- Links de Contato -->
 <div align="center"> 
-  <a href="https://www.instagram.com/gabizuppardo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:gabrielamzuppardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gabriela-zuppardo-5080561b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.instagram.com/ketyllen.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:ketyllen.pessoalo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ketyllenoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </div>
 
 <!-- Contador de Visitantes -->
