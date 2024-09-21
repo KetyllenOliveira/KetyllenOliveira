@@ -9,7 +9,7 @@
 <!-- Sobre Mim -->
 <h2 align="center">Sobre Mim 🚀</h2>
 <p align="center">
-Sou uma profissional entusiasmada por novas tecnologias e com uma abordagem criativa, atualmente em transição de carreira para a área de tecnologia. Estou cursando Sistemas para Internet na UNICAP, por meio de um programa inovador desenvolvido pelo Porto Digital em parceria com a Prefeitura do Recife. Com um forte desejo de integrar e aplicar conhecimentos de programação, estou determinada a deixar minha marca no mundo da tecnologia.
+Sou uma profissional entusiasmada por novas tecnologias e com uma abordagem criativa, atualmente em transição de carreira para a área de tecnologia. Estou cursando Sistemas para Internet na UNICAP, por meio de um programa inovador desenvolvido pelo Porto Digital em parceria com a Prefeitura do Recife. Com um forte desejo de integrar e aplicar conhecimentos de programação e automação de testes, estou determinada a deixar minha marca no mundo da tecnologia e garantir a qualidade dos sistemas em que trabalho.
 </p>
 
 <!-- Minha Jornada -->
@@ -19,18 +19,23 @@ Sou uma profissional entusiasmada por novas tecnologias e com uma abordagem cria
 </p>
 <ul style="text-align: left;">
   <li>Desenvolvimento Frontend (HTML, CSS, JavaScript, UI/UX)</li>
-  <li>Análise de Dados</li>
-  <li>Automação de Testes (Cypress, Cucumber)</li>
-  <li>QA e Page Object Pattern</li>
+  <li>Análise de Dados e Visualização (Python, SQL, Kaggle)</li>
+  <li>Automação de Testes e Qualidade de Software (Cypress, Cucumber, Selenium)</li>
+  <li>Práticas de QA e Page Object Pattern para modularidade e eficiência nos testes</li>
+  <li>Testes funcionais, testes de integração e testes de regressão</li>
+  <li>Desenvolvimento de APIs e Back-end (Java, Spring Boot, Flask)</li>
 </ul>
 <p align="center">
-  Estou constantemente buscando aprender mais sobre essas tecnologias e suas aplicações no desenvolvimento de soluções inovadoras.
+  Estou constantemente buscando aprender mais sobre essas tecnologias e suas aplicações no desenvolvimento de soluções inovadoras e de alta qualidade.
 </p>
 
 <!-- Foco Atual -->
 <h2 align="center">Foco Atual 💻</h2>
 <p align="center">
-Minha jornada na Tecnologia da Informação inflamou uma paixão vibrante pelo design UX/UI e seus processos, especialmente na criação de produtos digitais e na superação de desafios diários através da tecnologia. Agora, estou concentrando meus esforços em me aprimorar nas áreas de QA, automação de testes e frontend. Estou ansiosa para minha primeira oportunidade de contribuir em projetos que explorem esses campos. Determinada a aprimorar minhas habilidades neste empolgante universo tecnológico, estou constantemente em busca de aprendizado e evolução.
+Minha jornada na Tecnologia da Informação inflamou uma paixão vibrante pelo design UX/UI e seus processos, especialmente na criação de produtos digitais e na superação de desafios diários através da tecnologia. Agora, estou concentrando meus esforços em me aprimorar nas áreas de QA, automação de testes e desenvolvimento frontend. A qualidade de software é essencial para garantir experiências digitais incríveis e funcionais, e estou ansiosa para minha primeira oportunidade de contribuir em projetos que explorem esses campos.
+</p>
+<p align="center">
+  Além disso, estou comprometida em entender as melhores práticas de automação de testes, desde testes unitários até testes de ponta a ponta, e como integrá-los em pipelines de CI/CD. Determinada a aprimorar minhas habilidades neste empolgante universo tecnológico, estou constantemente em busca de aprendizado e evolução.
 </p>
 <p align="center">
   Qual será o nosso próximo projeto?🌟
@@ -47,9 +52,12 @@ Minha jornada na Tecnologia da Informação inflamou uma paixão vibrante pelo d
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117" />&nbsp;
-  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=whit"/>&nbsp;
-  <img src="https://img.shields.io/badge/-cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-Cypress-058a5e?style=for-the-badge&logo=cypress&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 <!-- Estudos atuais -->
@@ -58,28 +66,14 @@ Minha jornada na Tecnologia da Informação inflamou uma paixão vibrante pelo d
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)"/>&nbsp;
-  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Jenkins-%23F7B500?style=for-the-badge&logo=jenkins&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
-
-<!-- Estatísticas do GitHub -->
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MariaGabrielaAlvesZuppardo&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGabrielaAlvesZuppardo&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" alt="Top Languages" />
-</div>
 
 <!-- Links de Contato -->
 <div align="center"> 
   <a href="https://www.instagram.com/ketyllen.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:ketyllen.pessoalo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ketyllenoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</div>
-
-<!-- Contador de Visitantes -->
-<div align="center">
-  <br><p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MariaGabrielaAlvesZuppardo}/count.svg" /></p> 
-  <br>
-</div>
-
-<!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+  <a href="https://www.linkedin.com/in/ketyllenoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?
