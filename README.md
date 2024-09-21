@@ -19,19 +19,18 @@ Sou uma profissional entusiasmada por novas tecnologias e com uma abordagem cria
 </p>
 <ul style="text-align: left;">
   <li>Desenvolvimento Frontend (HTML, CSS, JavaScript, UI/UX)</li>
-  <li>Segurança Cibernética</li>
   <li>Análise de Dados</li>
+  <li>Automação de Testes (Cypress, Cucumber)</li>
+  <li>QA e Page Object Pattern</li>
 </ul>
 <p align="center">
-
   Estou constantemente buscando aprender mais sobre essas tecnologias e suas aplicações no desenvolvimento de soluções inovadoras.
 </p>
 
 <!-- Foco Atual -->
 <h2 align="center">Foco Atual 💻</h2>
 <p align="center">
-
-Minha jornada na Tecnologia da Informação inflamou uma paixão vibrante pelo design UX/UI e seus processos, especialmente na criação de produtos digitais e na superação de desafios diários através da tecnologia. Agora, estou concentrando meus esforços em me aprimorar nas áreas de frontend, cibersegurança e análise de dados. Estou ansiosa para minha primeira oportunidade de contribuir em projetos que explorem esses campos. Determinada a aprimorar minhas habilidades neste empolgante universo tecnológico, estou constantemente em busca de aprendizado e evolução.
+Minha jornada na Tecnologia da Informação inflamou uma paixão vibrante pelo design UX/UI e seus processos, especialmente na criação de produtos digitais e na superação de desafios diários através da tecnologia. Agora, estou concentrando meus esforços em me aprimorar nas áreas de QA, automação de testes e frontend. Estou ansiosa para minha primeira oportunidade de contribuir em projetos que explorem esses campos. Determinada a aprimorar minhas habilidades neste empolgante universo tecnológico, estou constantemente em busca de aprendizado e evolução.
 </p>
 <p align="center">
   Qual será o nosso próximo projeto?🌟
@@ -48,7 +47,9 @@ Minha jornada na Tecnologia da Informação inflamou uma paixão vibrante pelo d
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117" />&nbsp;
-  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=whit"/>
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=whit"/>&nbsp;
+  <img src="https://img.shields.io/badge/-cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Cypress-058a5e?style=for-the-badge&logo=cypress&logoColor=white" />&nbsp;
 </p>
 
 <!-- Estudos atuais -->
@@ -82,4 +83,3 @@ Minha jornada na Tecnologia da Informação inflamou uma paixão vibrante pelo d
 
 <!-- Parte inferior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
-
