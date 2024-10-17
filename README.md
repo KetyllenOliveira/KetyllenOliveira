@@ -1,5 +1,3 @@
-<!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 <!-- Título e Descrição -->
 <h1 align="center">Hello, I'm Ketyllen Oliveira!</h1>
