@@ -4,7 +4,7 @@
 <!-- Título e Descrição -->
 <h1 align="center">Hello, I'm Ketyllen Oliveira!</h1>
 <p align="center">"I am a Brazilian woman, in the prime of my twenty-one years, a researcher, fascinated by science and technology, who, through programming, tries to make her mark on the world. I am a student of Internet Systems, and this is my world. Welcome!"</p>
-<p align="center"> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." - Bill Gates</p>
+<p align="center">"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." - Bill Gates</p>
 
 <!-- Sobre Mim -->
 <h2 align="center">Sobre Mim 🚀</h2>
@@ -61,7 +61,6 @@ Minha jornada na Tecnologia da Informação inflamou uma paixão vibrante pelo d
 <!-- Estudos atuais -->
 <h3 align="center">Studying at the moment:</h3>
 <p align="center">
-
   <img src="https://img.shields.io/badge/-Cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>&nbsp;
   <img src="https://img.shields.io/badge/-Jenkins-%23F7B500?style=for-the-badge&logo=jenkins&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
@@ -72,4 +71,5 @@ Minha jornada na Tecnologia da Informação inflamou uma paixão vibrante pelo d
 <div align="center"> 
   <a href="https://www.instagram.com/ketyllen.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:ketyllen.pessoalo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ketyllenoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?
+  <a href="https://www.linkedin.com/in/ketyllenoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
