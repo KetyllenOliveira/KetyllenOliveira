@@ -10,7 +10,7 @@
 
 <!-- GIF de QA -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFzMGE5am12dW10eTZmNzN4ZWQ4OG40NmdrdnE4ejcyOXV4azhlbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G96Zap0XQHSxG/giphy.gif" width="300px" alt="QA GIF" />
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="QA GIF" />
 </p>
 
 ---
@@ -71,8 +71,9 @@
 </p>
 
 ---
+### 📊 Estatísticas do GitHub
 
-<!-- Snake GitHub Contribution -->
-<p align="center">
-  <img src="https://github.com/ketyllen/ketyllen/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ketyllen&show_icons=true&theme=radical" height="200" alt="Estatísticas de Ketyllen" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketyllen&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="200" alt="Linguagens mais usadas" />
+</div>
