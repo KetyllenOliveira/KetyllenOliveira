@@ -1,38 +1,39 @@
-<!-- Banner Personalizado -->
+<!-- Banner Colorido -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:8a2be2&height=180&section=header&text=Ketyllen%20Oliveira%20👩‍💻%20QA%20Engineer&fontSize=28&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=180&section=header&text=Ketyllen%20Oliveira%20💻%20QA%20Engineer&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Efeito de Digitação -->
+<!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F78DA7&center=true&width=500&lines=QA+Engineer+at+CESAR;Apaixonada+por+Qualidade+de+Software;Testes+automatizados+e+funcionais;Foco+em+Excelência+Digital+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+a+Ketyllen!;QA+Engineer+no+CESAR.;Testes+automatizados+e+funcionais.;Garantindo+qualidade+em+produtos+digitais+🚀" />
 </p>
 
-<!-- GIF Profissional -->
+<!-- GIF de QA -->
 <p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="300px" alt="QA Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFzMGE5am12dW10eTZmNzN4ZWQ4OG40NmdrdnE4ejcyOXV4azhlbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G96Zap0XQHSxG/giphy.gif" width="300px" alt="QA GIF" />
 </p>
 
 ---
 
-### 👩‍💻 Sobre mim
+### 👩‍💻 Sobre mim / About me
 
-Sou Ketyllen Oliveira, formada em Sistemas para Internet pela **UNICAP**, atualmente atuando como **QA Engineer no CESAR**. Tenho paixão por qualidade de software e utilizo tecnologia para garantir experiências digitais incríveis. Estou sempre buscando evoluir como profissional e contribuir com projetos desafiadores!
+🇧🇷 Olá! Sou **Ketyllen Oliveira**, formada em Sistemas para Internet pela **UNICAP**, e atualmente atuo como **QA Engineer no CESAR**. Tenho paixão por qualidade de software, e busco sempre aprimorar meus conhecimentos em testes funcionais, automação e boas práticas de desenvolvimento. Amo transformar experiências digitais em algo confiável, funcional e incrível!
+
+🇺🇸 Hi! I'm **Ketyllen Oliveira**, a QA Engineer working at **CESAR**, graduated in Internet Systems from UNICAP (Brazil). I'm passionate about software quality and continuously improving my skills in test automation and functional testing to help deliver reliable and exceptional digital experiences!
 
 ---
 
-### 🧪 Habilidades em Qualidade de Software
+### 🧪 Habilidades em Qualidade / QA Skills
 
-- ✅ Testes Funcionais, Regressão e Integração  
+- ✅ Testes Funcionais, de Regressão e Integração  
 - ✅ Automação com Cypress, Cucumber, Selenium  
-- ✅ API Testing com Postman  
-- ✅ Boas práticas de QA e BDD (Gherkin)  
-- ✅ Testes E2E com Page Object Pattern  
-- ✅ CI/CD e controle de qualidade contínuo  
+- ✅ Testes de API com Postman  
+- ✅ BDD com Gherkin e Page Object Pattern  
+- ✅ Conhecimentos em CI/CD, Git e Docker  
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=flat&logo=cypress&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
@@ -40,17 +41,18 @@ Sou Ketyllen Oliveira, formada em Sistemas para Internet pela **UNICAP**, atualm
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-E44C30?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 ---
 
 ### 📚 Atualmente estudando
 
-- 📌 Jenkins e GitHub Actions para CI/CD  
+- 📌 Integração de testes com Jenkins  
 - 📌 Testes Mobile com Appium  
 - 📌 Testes de Performance com k6 e JMeter  
+- 📌 GitHub Actions para CI/CD  
 
 ---
 
@@ -70,5 +72,7 @@ Sou Ketyllen Oliveira, formada em Sistemas para Internet pela **UNICAP**, atualm
 
 ---
 
-<!-- Snake Game dos commits -->
-![snake gif](https://github.com/ketyllen/ketyllen/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake GitHub Contribution -->
+<p align="center">
+  <img src="https://github.com/ketyllen/ketyllen/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
