@@ -5,7 +5,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+a+Ketyllen!;QA+Engineer+no+CESAR.;Testes+automatizados+e+funcionais.;Garantindo+qualidade+em+produtos+digitais+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+a+Ketyllen!;QA+Engineer.;Testes+automatizados+e+funcionais.;Garantindo+qualidade+em+produtos+digitais+🚀" />
 </p>
 
 <!-- GIF de QA -->
@@ -17,15 +17,16 @@
 
 ### 👩‍💻 Sobre mim / About me
 
-🇧🇷 Olá! Sou Ketyllen Oliveira, formada em Sistemas para Internet pela UNICAP e atuo como QA Engineer. Tenho paixão por qualidade de software e busco constantemente aprimorar meus conhecimentos em testes funcionais, automação e boas práticas de desenvolvimento. Amo transformar experiências digitais em algo confiável, funcional e incrível!
-🇺🇸 Hi! I'm Ketyllen Oliveira, a QA Engineer graduated in Internet Systems from UNICAP (Brazil). I'm passionate about software quality and continuously improving my skills in functional testing, test automation, and best development practices to help deliver reliable and exceptional digital experiences.
+🇧🇷 Olá! Sou **Ketyllen Oliveira**, formada em **Sistemas para Internet pela UNICAP** e atuo como **QA Engineer**. Tenho paixão por **qualidade de software** e busco constantemente aprimorar meus conhecimentos em **testes funcionais, automação** e **boas práticas de desenvolvimento**. Amo transformar experiências digitais em algo **confiável, funcional e incrível**!
+
+🇺🇸 Hi! I'm **Ketyllen Oliveira**, a **QA Engineer** graduated in **Internet Systems from UNICAP (Brazil)**. I'm passionate about **software quality** and continuously improving my skills in **functional testing, test automation**, and **best development practices** to help deliver **reliable and exceptional digital experiences**.
 
 ---
 
 ### 🧪 Habilidades em Qualidade / QA Skills
 
 - ✅ Testes Funcionais, de Regressão e Integração  
-- ✅ Automação com Cypress, Cucumber, Selenium  
+- ✅ Automação com Cypress, Cucumber e Selenium  
 - ✅ Testes de API com Postman  
 - ✅ BDD com Gherkin e Page Object Pattern  
 - ✅ Conhecimentos em CI/CD, Git e Docker  
@@ -70,10 +71,10 @@
 </p>
 
 ---
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KetyllenOliveira&show_icons=true&theme=radical" height="200" alt="Estatísticas de Ketyllen" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KetyllenOliveira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="200" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KetyllenOliveira&locale=pt-br&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr" height="200" alt="Linguagens mais usadas" />
 </div>
-
