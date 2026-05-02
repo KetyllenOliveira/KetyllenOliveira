@@ -72,9 +72,3 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KetyllenOliveira&show_icons=true&theme=radical" height="200" alt="Estatísticas de Ketyllen" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KetyllenOliveira&locale=pt-br&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr" height="200" alt="Linguagens mais usadas" />
-</div>
