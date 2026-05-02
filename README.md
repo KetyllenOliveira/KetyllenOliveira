@@ -17,9 +17,8 @@
 
 ### 👩‍💻 Sobre mim / About me
 
-🇧🇷 Olá! Sou **Ketyllen Oliveira**, formada em Sistemas para Internet pela **UNICAP**, e atualmente atuo como **QA Engineer no CESAR**. Tenho paixão por qualidade de software, e busco sempre aprimorar meus conhecimentos em testes funcionais, automação e boas práticas de desenvolvimento. Amo transformar experiências digitais em algo confiável, funcional e incrível!
-
-🇺🇸 Hi! I'm **Ketyllen Oliveira**, a QA Engineer working at **CESAR**, graduated in Internet Systems from UNICAP (Brazil). I'm passionate about software quality and continuously improving my skills in test automation and functional testing to help deliver reliable and exceptional digital experiences!
+🇧🇷 Olá! Sou Ketyllen Oliveira, formada em Sistemas para Internet pela UNICAP e atuo como QA Engineer. Tenho paixão por qualidade de software e busco constantemente aprimorar meus conhecimentos em testes funcionais, automação e boas práticas de desenvolvimento. Amo transformar experiências digitais em algo confiável, funcional e incrível!
+🇺🇸 Hi! I'm Ketyllen Oliveira, a QA Engineer graduated in Internet Systems from UNICAP (Brazil). I'm passionate about software quality and continuously improving my skills in functional testing, test automation, and best development practices to help deliver reliable and exceptional digital experiences.
 
 ---
 
